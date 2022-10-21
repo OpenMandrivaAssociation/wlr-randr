@@ -16,7 +16,7 @@ BuildRequires:  pkgconfig(wayland-client)
 wlr-randr is a command line utility to manage outputs of a Wayland compositor.
 
 %prep
-%autosetup -p1
+%autosetup -n %{name}-v%{version} -p1
 
 %build
 %meson

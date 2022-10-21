@@ -5,7 +5,7 @@ Summary:        Utility to manage outputs of a Wayland compositor
 License:        MIT
 Group:          Productivity/Graphics/Other
 URL:            https://git.sr.ht/~emersion/wlr-randr/
-Source0:        https://git.sr.ht/~emersion/wlr-randr/archive/v%{version}/%{name}-%{verson}.tar.gz
+Source0:        https://git.sr.ht/~emersion/wlr-randr/archive/v%{version}/%{name}-v%{version}.tar.gz
 # Old source
 #Source0:         https://github.com/emersion/wlr-randr/releases/download/v0.2.0/wlr-randr-%{version}.tar.gz
 

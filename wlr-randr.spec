@@ -1,6 +1,6 @@
 Name:           wlr-randr
-Version:        0.3.0
-Release:        2
+Version:        0.3.1
+Release:        1
 Summary:        Utility to manage outputs of a Wayland compositor
 License:        MIT
 Group:          Productivity/Graphics/Other
